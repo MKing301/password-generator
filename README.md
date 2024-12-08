@@ -5,9 +5,9 @@ This desktop GUI application allows the user to generate  and save passwords.
 
 ## Requirements
 
-* Ubuntu 19.10
+* Ubuntu 24.04
 * Python 3
-* PyQt5-5.9.2
+* PyQt5
 
 ## Installation
 
